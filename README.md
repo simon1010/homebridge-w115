@@ -1,5 +1,4 @@
-# Not maintained
-I've not maintained this plugin, in a long while as I ended up moving back to homebridge. Please see one of the forks for bug fixes or submit a pull request and I will re-release
+# In progress
 
 ## Homebridge plugin for DSP w215
 
