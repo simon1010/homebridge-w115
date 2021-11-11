@@ -2,7 +2,7 @@
 
 ## Homebridge plugin for DSP w215
 
-Takes advantage of bikerp/dsp-w215-hnap: https://github.com/bikerp/dsp-w215-hnap.
+Takes advantage of thunderbird/homebridge-w215
 
 ### Features
 * Includes ability to turn on and off w215 smart switches
