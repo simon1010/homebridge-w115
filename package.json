@@ -1,7 +1,7 @@
 {
-    "name": "homebridge-w215",
-    "version": "0.0.6",
-    "description": "HomeBridge plugin for DSP w215",
+    "name": "homebridge-w115",
+    "version": "0.0.1",
+    "description": "HomeBridge plugin for DSP w115",
     "main": "index.js",
     "scripts": {
         "test": "test.js"
@@ -18,14 +18,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/thunderbird/homebridge-w215.git"
+        "url": "https://github.com/simon1010/homebridge-w115.git"
     },
     "keywords": [
         "homebridge-plugin",
         "D-Link",
         "dlink",
-        "w215",
-        "w216b",
+        "w115",
         "dsp",
         "require-uncached"
     ]
